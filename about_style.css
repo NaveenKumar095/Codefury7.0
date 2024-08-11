@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Copperplate;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.about{
+    margin-bottom: 20vh;
+}
+
+.about_main{
+    color: #fff;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 20vh;
+}
+
+.about_main h3{
+    color: #00edff;
+    font-size: 5vh;
+    margin-top: 10vh;
+    margin-left: 10vh;
+}
+
+.about_main p{
+    width: 70vw;
+    padding-top: 7vh;
+    padding-left: 15vh;
+    padding-right: 15vh;
+    text-align: justify;
+}
+
+.about_main p span{
+    color: #00edff;
+}
